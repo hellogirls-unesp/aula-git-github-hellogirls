@@ -1,4 +1,8 @@
 Aula sobre Git e Github
 
-ensinando a mexer no git e github
+Ensinando a mexer no git e github
+- commit
+- push
+- pull
+- ...
 
