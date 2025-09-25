@@ -4,6 +4,4 @@ Ensinando a mexer no git e github
 - commit
 - push
 - pull
-- branches
-- issues
 
